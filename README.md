@@ -1,6 +1,13 @@
 # Voltammogram Application
 
-The application requires the MATLAB runtime engine.  The installation of this engine is built into the .exe file.  If you have questions please email me at bhambly@memphis.edu.
+## Installation Instructions
+1. Click the green Clone or download button and download ZIP file.
+2. Open the downloaded ZIP file.
+3. Find and double click on the “Voltammogram_Calculator_web.exe” and move it to the desktop.
+4. Double click on the Voltammogram_Calculator application.
+5. Continue with the installation.
+
+The application requires the MATLAB runtime engine, and its installation is built into the .exe installation process.  If you have questions please email me at bhambly@memphis.edu.
 
 Thank you
 
