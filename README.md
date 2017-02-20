@@ -9,7 +9,20 @@
 
 The application requires the MATLAB runtime engine, and its installation is built into the .exe installation process.  If you have questions please email me at bhambly@memphis.edu.
 
-Thank you
+## Basic Usage
+1. Enter model parameters in the Model Control panel.
+2. Using the drop-down menu select a model.
+3. Click calculate in the Model Control panel.
+### Export data
+To export your data as a .CSV click the Export to CSV button in the Model Control panel.  This will only export the data for __one__ curve.  For exporting data for multiple curves use the memory function.
+
+## Memory Usage
+0. Clear memory using the red Clear Memory button.  The counter should go to zero once you click the button.
+1. Enter the parameters for your first simulation in the Model Control panel and select your model from the drop-down menu. 
+2. Click the green "+ Memory" button to run the simulation and store the results in the memory. 
+3. Run as many simulation as desired making sure you click the + Memory button after each. You should see the counter increase upon each additonal simulation.
+4. Plot the memory using the Plot Memory button or export memory using the Export Memory button.
+5. The memory can be cleared using the red Clear Memory button.
 
 ## References
 #### Osteryoung Model
